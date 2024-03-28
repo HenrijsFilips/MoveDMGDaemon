@@ -7,7 +7,7 @@
     <key>ProgramArguments</key>
     <array>
         <string>/usr/bin/python3</string>
-        <string>/path/to/dmg_file_monitor.py</string>
+        <string>/Users/henrijsverlis/Desktop/Daemon Stuff/dmg_file_monitor.py</string>
     </array>
     <key>RunAtLoad</key>
     <true/>
